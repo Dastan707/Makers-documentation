@@ -1,0 +1,40 @@
+{
+  "topics": [
+    {
+      "title": "HTML",
+      "description": "HTML ",
+      "img": "фыв",
+      "subTitle": "йц",
+      "secondDescription": "123",
+      "secondImg": "123",
+      "id": 1
+    },
+    {
+      "title": "Вступление в HTML123123",
+      "description": "Возврат нескольких элементов из компонента является распространённой практикой в React. Фрагменты позволяют формировать список дочерних элементов, не создавая лишних узлов в DOM.",
+      "img": "https://www.wikitechy.com/step-by-step-html-tutorials/img/html-images/code-explanation-image-tag-in-html.png",
+      "subTitle": "Начало работы с HTML",
+      "secondDescription": "Далее открывается парный тег html с атрибутом lang=\"ru\". Указание языка также необходимо для браузеров, особенно если сайт рассчитан на массовую аудиторию, в том числе и за рубежом.  Во избежание ошибок, обе вышеописанные конструкции, при их отсутствии, будут добавлены браузером автоматически. В некоторых ситуациях браузеры могут добавить не те строки, которые вы бы хотели, и вместо обработки страницы по стандарту HTML5 браузер будет обрабатывать всё как HTML4, что приведёт к множеству проблем.",
+      "secondImg": "https://i.ytimg.com/vi/a2DRuCliClU/maxresdefault.jpg",
+      "id": 2
+    },
+    {
+      "title": "123",
+      "description": "123",
+      "img": "123",
+      "subTitle": "123",
+      "secondDescription": "123",
+      "secondImg": "123",
+      "id": 3
+    },
+    {
+      "title": "js",
+      "description": "js",
+      "img": "js",
+      "subTitle": "js",
+      "secondDescription": "js",
+      "secondImg": "js",
+      "id": 4
+    }
+  ]
+}
